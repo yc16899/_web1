@@ -9,7 +9,7 @@
 ## 🔗 Demo
 你可以透過 **GitHub Pages** 查看網站：
 
-👉 [https://你的帳號.github.io/my-website/](https://你的帳號.github.io/my-website/)
+👉 [https://yc16899.github.io/_web1/](https://yc16899.github.io/_web1/)
 
 ## 📂 專案結構
 _web1/
