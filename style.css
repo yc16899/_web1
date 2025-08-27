@@ -1,0 +1,40 @@
+/* 共用字型 */
+body {
+    font-family: "Microsoft JhengHei", sans-serif;
+}
+
+/* 側邊欄樣式 */
+.sidebar {
+    border-right: 1px solid #ddd;
+    height: calc(100vh - 56px); /* 減去導覽列高度 */
+    padding-top: 1rem;
+}
+
+/* 側邊欄按鈕 */
+.sidebar button {
+    display: block;
+    width: 100%;
+    margin-bottom: .5rem;
+    text-align: left;
+}
+
+/* 主內容 */
+.content {
+    padding: 1rem;
+}
+
+/* 導覽列 Logo */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+/* 導覽列連結 */
+.nav-link {
+    font-size: 1.1rem;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #0d6efd !important; /* Bootstrap 藍色 */
+}
