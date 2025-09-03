@@ -12,7 +12,7 @@
 👉 [https://yc16899.github.io/_web1/](https://yc16899.github.io/_web1/)
 
 ## 📂 專案結構
-_web1/
+_web1/  
 │── index.html       # 首頁  
 │── courses.html     # 課程  
 │── jobs.html        # 工作經驗  
